@@ -2,7 +2,7 @@ package com.LT.Learning.variable;
 //确定Scanner的位置
 import java.util.Scanner;
 
-public class variableDEMO6 {
+public class variableDemo6 {
     public static void main(String[] args) {
         //1.找到Scanner类
         Scanner sc = new Scanner(System.in);

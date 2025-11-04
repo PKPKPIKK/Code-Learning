@@ -2,7 +2,7 @@ package com.LT.Learning.variable;
 
 import java.util.Scanner;
 
-public class variableDEMO8 {
+public class variableDemo8 {
     public static void main(String[] args) {
         //键盘录入人的体重
         Scanner sc = new Scanner(System.in);

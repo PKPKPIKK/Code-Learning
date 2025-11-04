@@ -1,6 +1,6 @@
 package com.LT.Learning.variable;
 
-public class varibaleDEMO5 {
+public class varibaleDemo5 {
     public static void main(String[] args) {
     //1.定义变量，记录了体重和身高
         double weight = 76.0;

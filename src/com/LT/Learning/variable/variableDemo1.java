@@ -1,6 +1,6 @@
 package com.LT.Learning.variable;
 
-public class variableDEMO1 {
+public class variableDemo1 {
     public static void main(String[] args) {
         //微信余额：0；银行卡:20;支付宝：10
         //用一个变量记录微信余额

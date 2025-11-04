@@ -1,0 +1,15 @@
+package com.LT.Learning.operator;
+
+import java.util.Scanner;
+
+public class operatorDemo3 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("请输入秒数：");
+        int time = sc.nextInt();
+        int hour = time / 3600;
+        int minute = time % 3600 / 60;
+        int second = time % 60;
+        System.out.printf("%d %d %d",hour,minute,second);
+    }
+}

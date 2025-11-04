@@ -1,6 +1,6 @@
 package com.LT.Learning.literal;
 
-public class literalDEMO1 {
+public class literalDemo1 {
     public static void main(String[] args) {
         // 输出恐龙的信息：霸王龙；8岁；11.5，公
 

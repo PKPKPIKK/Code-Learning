@@ -1,6 +1,6 @@
 package com.LT.Learning.variable;
 
-public class variableDEMO4 {
+public class variableDemo4 {
     public static void main(String[] args) {
         int a = 1;
         System.out.println(a);

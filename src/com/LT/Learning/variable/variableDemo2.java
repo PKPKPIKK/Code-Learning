@@ -1,6 +1,6 @@
 package com.LT.Learning.variable;
 
-public class variableDEMO2 {
+public class variableDemo2 {
     public static void main(String[] args) {
         /*
         我方：叉子     对手:长剑

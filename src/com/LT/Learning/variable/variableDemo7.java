@@ -2,7 +2,7 @@ package com.LT.Learning.variable;
 
 import java.util.Scanner;
 
-public class variableDEMO7 {
+public class variableDemo7 {
     public static void main(String[] args) {
         //键盘录入两个整数并求和
         Scanner sc = new Scanner(System.in);
