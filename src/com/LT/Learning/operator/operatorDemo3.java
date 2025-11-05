@@ -11,5 +11,10 @@ public class operatorDemo3 {
         int minute = time % 3600 / 60;
         int second = time % 60;
         System.out.printf("%d %d %d",hour,minute,second);
+        //换行
+        System.out.println();
+        //输出为：小时 分 秒
+        System.out.println(hour + "小时" + minute + "分钟" + second + "秒");
     }
+
 }
