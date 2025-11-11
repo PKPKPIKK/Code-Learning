@@ -13,3 +13,4 @@ public class operatorDemo12 {
         System.out.println(result);
     }
 }
+
