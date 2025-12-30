@@ -1,0 +1,22 @@
+package com.LT.Learning.LV2.extendstest.Test7;
+
+public class Teacher extends Person{
+    private String subject;
+
+    public Teacher() {
+        super();
+    }
+    public Teacher(String name, int age, String project) {
+        super(name, age);
+        this.subject = project;
+    }
+    public String getSubject() {
+        return subject;
+    }
+    public void setSubject(String subject) {
+        this.subject = subject;
+    }
+    public void teach(){
+        System.out.println("正在教书");
+    }
+}
